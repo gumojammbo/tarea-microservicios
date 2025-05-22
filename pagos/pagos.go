@@ -1,8 +1,8 @@
 package main
 
 import (
-	//"encoding/json"
-	//"io/ioutil"
+	"encoding/json"
+	"io/ioutil"
 	"fmt"
 	"html"
 	"log"
